@@ -1,4 +1,3 @@
-Hello, My name is Usman and i want to add this file to GitHub repository.
+Usman: I am overriding all the contents of File.txt and adding first line
+now.  
 
-
-Hello, My name is Aariz and i want second contributor to this GitHub repository
